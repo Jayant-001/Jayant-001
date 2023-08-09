@@ -52,5 +52,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Jayant-001&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-### 📈 My GitHub Contributions
-![snake gif](https://github.com/Jayant-001/Jayant-001/blob/output/github-contribution-grid-snake.gif)
+#### My contribution graph get eaten by the snake 🐍:
+![github-contribution-grid-snake](https://github.com/Jayant-001/Jayant-001/blob/output/github-contribution-grid-snake.svg)
