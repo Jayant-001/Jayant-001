@@ -9,13 +9,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on [Epic Cart](https://epic-cart-2.vercel.app/)
+- 🔭 I’m currently working on Next.js, Node.js, Typescript.
 
-- 🌱 I’m currently learning **Next.js, Angular.js, MERN Stack**
+- 🌱 I’m currently learning **AWS Services, Next.js, Typescript, Socket programming(Socket.io)**
 
 - 👨‍💻 All of my projects are available at [https://jayant-gupta.vercel.app/](https://jayant-gupta.vercel.app/)
 
-- 💬 Ask me about **DSA problem solving, Web development**
+- 💬 Ask me about **DSA problem solving, Full stack development**
 
 - 📫 How to reach me **jayant.gupta.dln@gmail.com**
 
