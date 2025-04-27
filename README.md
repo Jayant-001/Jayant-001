@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **jayant.gupta.dln@gmail.com**
 
-- 📄 Know about my experiences [https://jayant-gupta.vercel.app/](https://jayant-gupta.vercel.app/)
+- 📄 Know about my experiences [https://jayant-dev.vercel.app/](https://jayant-dev.vercel.app/)
 
 - ⚡ Fun fact **Learning hacking using HTML(a super powerful programming language used in AI)**
 
