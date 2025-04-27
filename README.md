@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **AWS Services, Next.js, Typescript, Socket programming(Socket.io)**
 
-- 👨‍💻 All of my projects are available at [https://jayant-gupta.vercel.app/](https://jayant-gupta.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://jayant-dev.vercel.app/](https://jayant-dev.vercel.app/)
 
 - 💬 Ask me about **DSA problem solving, Full stack development**
 
